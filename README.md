@@ -1,0 +1,1 @@
+A simple calculator with text-to-speech functionality is a user-friendly application that allows users to perform basic mathematical calculations and receive the results audibly through text-to-speech technology. 
